@@ -1,0 +1,2 @@
+with git cherry you can pick only the files you want to commit
+unlike rebase where were you commits are done base on time stamp
